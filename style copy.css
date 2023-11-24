@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Inter";
+    src: url(fonts/Inter-VariableFont_slnt\,wght.ttf);
+}
+
+* {
+
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background-color: rgb(26, 25, 25);
+}
